@@ -1,0 +1,43 @@
+[
+    {
+        "title": "The Force Awakens",
+        "description": "1977",
+        "rating": 5,
+        "poster":
+            "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "trailerURL": "https://www.youtube.com/embed/sGbxmsDFVnE"
+        },
+    {
+        "title": "The Phantom Menace",
+        "description": "1977",
+        "rating": 1,
+        "poster":
+        "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "trailerURL": "https://www.youtube.com/embed/uMoSnrd7i5c"
+    },
+    {
+        "title": "New Hope",
+        "description": "1977",
+        "rating": 3,
+        "poster":
+            "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "trailerURL": "https://www.youtube.com/embed/vZ734NWnAHA"
+        },
+    {
+        "title": "Star Wars",
+        "description": "1977",
+        "rating": 2,
+        "poster":
+         "https://m.media-amazon.com/images/M/MV5BODE1MTM1MzA2NF5BMl5BanBnXkFtZTcwODQ5MTA2Mg@@._V1_SX300.jpg",
+         "trailerURL":"https://www.youtube.com/embed/8Qn_spdM5Zg"
+        },
+      {
+        "title": "Terminator",
+        "description": "1977",
+        "rating": 4,
+        "poster":
+         "https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_SX300.jpg",
+         "trailerURL":"https://www.youtube.com/embed/CRRlbK5w8A"
+        }
+   
+]

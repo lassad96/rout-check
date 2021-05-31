@@ -1,0 +1,23 @@
+.desc {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    min-height: 60vh;
+    margin-bottom: -50px;
+    margin-top: -50px;
+  }
+
+.trailer{
+  margin-top: -50px;
+margin: auto;
+text-align: center;
+}
+.btnhome{
+  display: flex;
+ justify-content: flex-end;
+  margin-right: 50px;
+  color:blue;
+  
+}

@@ -1,0 +1,79 @@
+.card{
+  margin-right: 20px;
+  margin-top: 20px;
+  
+}
+
+
+
+
+
+label {
+  font-style: italic;
+
+}
+.App-intro {
+  font-size: large;
+}
+
+.container-fluid  {
+  background-color: black;
+}
+.App-header {
+  background-color: #282c34;
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 20px;
+  cursor: pointer;
+}
+p{
+  text-align: center;
+  color:blue;
+}
+.movies {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+
+  }
+
+  .search {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: 10px;
+  }
+  
+  .search > input[type="text"]{
+	width: 40%;
+	min-width: 170px;
+
+  }
+  form.search{
+	  margin-bottom: 10px;
+  }
+  .movie-app .row{
+    padding-left: 80px;
+  }
+  img {
+    height: 20rem;
+  }
+  button{
+    color: white;
+    background-color: blue;
+    font-size: 16px;
+    padding: 8px;
+    
+  }
+ h2{
+   color: blue;
+ }
+ .star-ratings{
+   height: 50px;
+ }
